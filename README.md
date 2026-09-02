@@ -1,6 +1,6 @@
 # LOGIFY Public Evidence
 
-LOGIFY의 연구·설계·명세·구현 과정에서 생성된 **공개 가능한 검증 자료(Public Evidence)**를 선별하여 기록합니다.
+LOGIFY의 연구·설계·명세·구현 과정에서 생성된 공개 가능한 검증 자료(Public Evidence)를 선별하여 기록합니다.
 
 ## Purpose
 
